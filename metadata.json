@@ -1,0 +1,6 @@
+{
+  "name": "Bánh Mì Cô Ba - Đậm Vị Việt Nam",
+  "description": "Tiệm bánh mì truyền thống Việt Nam: Vỏ bánh nướng giòn rụm, nhân pâté gia truyền béo ngậy, thịt xá xíu, heo quay, xíu mại và cà phê sữa đá đậm đà. Đặt hàng trực tuyến giao nhanh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
